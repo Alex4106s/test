@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/test/static/css/main.981f7211.chunk.css",
+    "main.js": "/test/static/js/main.238696c8.chunk.js",
+    "main.js.map": "/test/static/js/main.238696c8.chunk.js.map",
+    "runtime-main.js": "/test/static/js/runtime-main.a756f8be.js",
+    "runtime-main.js.map": "/test/static/js/runtime-main.a756f8be.js.map",
+    "static/css/2.4e89ce74.chunk.css": "/test/static/css/2.4e89ce74.chunk.css",
+    "static/js/2.b41d1068.chunk.js": "/test/static/js/2.b41d1068.chunk.js",
+    "static/js/2.b41d1068.chunk.js.map": "/test/static/js/2.b41d1068.chunk.js.map",
+    "index.html": "/test/index.html",
+    "precache-manifest.4ef2034f20672c3e753940f86d468f46.js": "/test/precache-manifest.4ef2034f20672c3e753940f86d468f46.js",
+    "service-worker.js": "/test/service-worker.js",
+    "static/css/2.4e89ce74.chunk.css.map": "/test/static/css/2.4e89ce74.chunk.css.map",
+    "static/css/main.981f7211.chunk.css.map": "/test/static/css/main.981f7211.chunk.css.map",
+    "static/media/persik.png": "/test/static/media/persik.4e1ec840.png"
+  }
+}
